@@ -42,7 +42,7 @@
 #include <openssl/evp.h>
 #include <pthread.h>
 #include <arpa/inet.h>
-#include "aes.c"
+#include"aes.c"
 
 #define ARGERROR -1    // 参数个数错误
 #define SOCKETERROR -2    // 创建TCP套接字错误
